@@ -35,6 +35,9 @@ The dashboard includes:
 - **Customer Analysis:** Top 10 customers by revenue
 - **Interactive Filters:** Region and Month-Year slicers connected to the dashboard's PivotTables and KPI summaries
 
+![Finance KPI Dashboard](screenshots/Finance_KPI_Dashboard.png)
+
+
 ## Business Recommendations
 
 - **Expense Monitoring:** Review salaries and other major expense categories to understand their contribution to overall costs.
@@ -79,6 +82,9 @@ The overall dataset reports:
 - **Customer Analysis:** The top 10 customers contributed approximately 11.2% of total revenue.
 
 The findings highlight differences in financial performance and areas requiring further investigation.
+
+![Financial Analysis Results](screenshots/Results.png)
+
 
 ## Limitations & Assumptions
 
